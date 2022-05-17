@@ -39,7 +39,7 @@ We follow the [gitmoji](https://gitmoji.dev/) convention and customize it.
 3. If you start a new study, use :sparkles: , like `:sparkles:` .
 
    ```bash
-    git commit -m ":sparkles: Math For Video Game"
+    git commit -m ":sparkles: Math For Video Games"
    ```
 
 ### Lectures :pencil2:
