@@ -65,3 +65,11 @@ Ceiling: 7, 6.3, 6.29
 ```
 Quiz 1 complete
 ```
+
+# 8. Squaring, Cubing(세제곱), Power(거듭제곱)
+- `exponentiation`
+- 제곱의 유용성: dealt with areas
+- Cubing세제곱: 3 dimension  
+_🧐 Math.Pow에서 Pow가 Power의 약자였구나_
+- 2^24 => 24bit color system
+
